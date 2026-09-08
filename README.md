@@ -1,28 +1,41 @@
 # ¡Hola! Soy Saúl Ramírez 👋
 
-**Aprendiz ADSO en el SENA** enfocado en el desarrollo backend, la lógica de programación y la gestión de bases de datos. Combino mis habilidades técnicas con una fuerte capacidad para resolver problemas bajo presión, gracias a más de 3 años de experiencia en entornos dinámicos.
+**Aprendiz ADSO en el SENA | Desarrollador de Software**
+
+Apasionado por el desarrollo web (Frontend & Backend), la lógica de programación y la resolución de problemas. Combino mis habilidades técnicas con autonomía, trabajo en equipo y liderazgo, respaldado por más de 3 años de experiencia en entornos profesionales de alta exigencia.
+
+- 🎓 Estudiando **Análisis y Desarrollo de Software (ADSO)** en el SENA CTMA.
+- 🚀 Preparándome activamente para el inicio de mi **Etapa Productiva / Contrato de Aprendizaje**.
+- 🐧 Usuario apasionado de **Linux** (Kubuntu) y seguidor de las buenas prácticas de código.
 
 ---
 
 ### 💻 Stack Tecnológico
-* **Lenguajes:** Python, PHP, JavaScript
+
+* **Frontend:** JavaScript (ES6+), React, HTML5, CSS3, Bootstrap
+* **Backend:** Node.js, Python, PHP
 * **Bases de Datos:** MySQL / SQL
-* **Frontend:** HTML5, CSS3
+* **Herramientas & Entorno:** Git, GitHub, Linux (Kubuntu/KDE)
 
 ---
 
 ### 🚀 Proyectos Destacados
 
-* 📦 **[Proyecto "BOOM"](https://github.com/SaulR2444):** Sistema web de compra y venta desarrollado en equipo con PHP, HTML y CSS enfocado en la automatización comercial.
-* 🏦 **[Simulador Bancario](https://github.com/SaulR2444):** Aplicación de consola en Python con validaciones estrictas para el registro de cuentas, depósitos y retiros.
+* 📅 **[agenda-adso](https://github.com/SaulR2442/agenda-adso):** Aplicación web de gestión y agendamiento construida con **React**, enfocada en el manejo de estado, componentes reutilizables y flujo dinámico en el Frontend.
+* ⚽ **[Sistema de Torneos de Fútbol](https://github.com/SaulR2442):** Plataforma de gestión de torneos desarrollada con **Node.js**. Incluye lógica de negocio backend, gestión de tablas y consulta de estadísticas.
+* 🗺️ **[Mapa-Sticker](https://github.com/SaulR2442):** Aplicación web interactiva para geolocalización y registro de stickers con integración de persistencia de datos.
+* 🏦 **[Simulador Bancario](https://github.com/SaulR2442):** Aplicación en consola desarrollada en **Python** con validación estricta de datos de entrada y manejo impecable del flujo bancario.
 
 ---
 
 ### 🌱 Enfoque Actual
-* 🇬🇧 Perfeccionando mi inglés día a día (Nivel A2-B1) mediante formación autónoma en Platzi.
-* 🎯 Buscando activamente una oportunidad para iniciar mi **Contrato de Aprendizaje**.
+
+* 🇬🇧 Perfeccionando mi inglés de forma constante con la meta de abrirme puertas para trabajar y colaborar en proyectos internacionales.
+* 💡 Explorando y aprendiendo continuamente diversos lenguajes y tecnologías en general para construir, crear e innovar con nuevos proyectos.
 
 ---
 
 ### 🤝 Conectemos
-[LinkedIn](https://www.linkedin.com/in/sa%C3%BAl-andr%C3%A9s-ramr%C3%ADez-alc%C3%A1zar-5349213bb) • saul.ramirez.dev@gmail.com
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sa%C3%BAl-andr%C3%A9s-ramr%C3%ADez-alc%C3%A1zar-5349213bb)
+[![Email](https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white)](mailto:saul.ramirez.dev@gmail.com)
