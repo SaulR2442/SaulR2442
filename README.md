@@ -22,7 +22,7 @@ Apasionado por el desarrollo web (Frontend & Backend), la lógica de programaci�
 
 * 📅 **[agenda-adso](https://github.com/SaulR2442/Agenda---ADSO):** Aplicación web de gestión y agendamiento construida con **React**, enfocada en el manejo de estado, componentes reutilizables y flujo dinámico en el Frontend.
 * ⚽ **[Sistema de Torneos de Fútbol](https://github.com/SaulR2442/Torneo-Sena):** Plataforma de gestión de torneos desarrollada con **Node.js**. Incluye lógica de negocio backend, gestión de tablas y consulta de estadísticas.
-* 🗺️ **[Mapa-Sticker](https://github.com/SaulR2442/Mapa-Sticker):** Aplicación web interactiva para geolocalización y registro de stickers con integración de persistencia de datos.
+* 🏋️ **[Workout Tracker API](https://github.com/SaulR2442/workout-tracker-api):** API RESTful desarrollada con Node.js y Express, enfocada en la gestión de usuarios, rutinas, ejercicios y seguimiento de progreso con arquitectura HATEOAS y filtrado dinámico.
 
 ---
 
